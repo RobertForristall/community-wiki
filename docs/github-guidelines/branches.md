@@ -19,3 +19,5 @@ Fork repositories (Owner is a contributor):
     - Example: Implementing issue number `1` with description `create login page` has a branch named something like `1-login-page`
 
 These methods of branch management will ensure that everyone knows what different branches contain and where to merge changes into as development on different projects progresses.
+
+To create new branches please use the [checkout](../git-commands/checkout.md) git command.
