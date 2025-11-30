@@ -18,4 +18,4 @@ Fork repositories (Owner is a contributor):
 - `<issue-number>-<issue-description>`: issue specific branches that are used for developing changes that will be later merged into the source repository
     - Example: Implementing issue number `1` with description `create login page` has a branch named something like `1-login-page`
 
-These methods of branch management will ensure that everyone knows what different branches contain and where to merge changes into as development on different projects progresses 
+These methods of branch management will ensure that everyone knows what different branches contain and where to merge changes into as development on different projects progresses.
