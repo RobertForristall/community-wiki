@@ -10,7 +10,7 @@ While repositories can be accessed using just https; it is recommended that all 
 
 ## Checking for exisiting SSH keys
 
-If you have already made an SSH key in the past follow one of the links below to find it on your machine based on the OS you are using:
+If you have already made a SSH key in the past follow one of the links below to find it on your machine based on the OS you are using:
 
 - Mac: [Github Docs For Checking Existing SSH Keys (Mac)](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys?platform=mac)
 - Windows: [Github Docs For Checking Existing SSH Keys (Windows)](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys?platform=windows)
@@ -18,7 +18,7 @@ If you have already made an SSH key in the past follow one of the links below to
 
 ## Creating a new SSH key
 
-If you do not already have an SSH key made then follow one of the links below on how to best create a new SSH key for interacting with Github based on the OS you are using:
+If you do not already have a SSH key made then follow one of the links below on how to best create a new SSH key for interacting with Github based on the OS you are using:
 
 - Mac: [Github Docs For Creating SSH Keys (Mac)](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=mac)
 - Windows: [Github Docs For Creating SSH Keys (Windows)](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=windows)
