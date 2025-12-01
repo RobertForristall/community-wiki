@@ -28,4 +28,8 @@ To add all changes in the entire local repository including new/renamed/deleted 
 
 `git add -A`
 
+## Removing a staged change
+
+To remove a staged change before commiting use `git restore --staged <file-name>` where `<file-name>` is the name of the file including any directories that are needed to reach the file from the current location that the terminal is running the command from.
+
 <!-- TODO: enchance add with interactive mode commands for block staging -->
