@@ -62,7 +62,7 @@ for the community
 7. [Useful Tools/Technologies](/docs/category/useful-tools--technologies): This section covers useful tools and technologies that the community can learn/use during the development of projects
     <!-- 1. [Docker](./tools/docker.md): Overview of docker which allows for the containerization of applications to improve sharability and distribution -->
 
-8. [Project Lifecycle](/docs/category/project-lifecycle): This section covers the lifecycle of a project from inception and design to production and maintenance
+8. [Project Lifecycle](/docs/category/project-lifecycle): This section covers the general lifecycle of a project from inception and design to production and maintenance
 
 9. Interview Prep: This section covers different algorithms and tools available for members to use for interview prep
 
